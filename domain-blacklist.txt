@@ -8,3 +8,5 @@ adakdt.top
 adabot.pro
 adarobot.xyz
 adabot.me
+miler.com
+oren.com
