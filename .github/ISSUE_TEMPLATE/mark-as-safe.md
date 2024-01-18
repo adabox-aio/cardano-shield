@@ -3,7 +3,7 @@ name: Mark as Safe
 about: Mark tx/website/dapp/nft as safe
 title: Mark as Safe - [Transaction ID/DApp/URL/NFT]
 labels: mark as safe
-assignees: adamcazes, edridudi
+assignees: adamcazes, Cardano-Shield, hizkiya, ThirdEye707
 
 ---
 

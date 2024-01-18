@@ -3,7 +3,7 @@ name: Report as Scam
 about: Report tx/website/dapp/nft as scam
 title: Scam Report - [Transaction ID/DApp/URL/NFT]
 labels: report as scam
-assignees: adamcazes, edridudi
+assignees: adamcazes, Cardano-Shield, hizkiya, ThirdEye707
 
 ---
 
