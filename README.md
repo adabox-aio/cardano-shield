@@ -14,7 +14,7 @@ Proactive protection from Phishing via websites and transactions using Machine l
   <img src=".github/TX RISK.png" alt="tx risk"/>
 </p>
 
-# Reporting a scam
+# Report
 You can use our predefined templates to report a token, dApp, url or a whole transaction as a scam or mark them as safe using the buttons below!
 <p align="center">
 <a href="https://github.com/adabox-aio/cardano-shield/issues/new?assignees=adamcazes%2C+Cardano-Shield%2C+hizkiya%2C+ThirdEye707&labels=report+as+scam&projects=&template=report-as-scam.md&title=Scam+Report+-+%5BTransaction+ID%2FDApp%2FURL%2FNFT%5D">
