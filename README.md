@@ -15,12 +15,15 @@ Proactive protection from Phishing via websites and transactions using Machine l
 </p>
 
 # Reporting a scam
-You can use our predefined templates to report a token, dApp, url transaction as a scam or mark them as safe!
+You can use our predefined templates to report a token, dApp, url or a whole transaction as a scam or mark them as safe using the buttons below!
 <p align="center">
 <a href="https://github.com/adabox-aio/cardano-shield/issues/new?assignees=adamcazes%2C+Cardano-Shield%2C+hizkiya%2C+ThirdEye707&labels=report+as+scam&projects=&template=report-as-scam.md&title=Scam+Report+-+%5BTransaction+ID%2FDApp%2FURL%2FNFT%5D">
 <img src="https://github.com/adabox-aio/cardano-shield/blob/main/.github/scam%20button.png?raw=true" alt="report as scam"/></a>
 <a href="https://github.com/adabox-aio/cardano-shield/issues/new?assignees=adamcazes%2C+Cardano-Shield%2C+hizkiya%2C+ThirdEye707&labels=mark+as+safe&projects=&template=mark-as-safe.md&title=Mark+as+Safe+-+%5BTransaction+ID%2FDApp%2FURL%2FNFT%5D">
 <img src="https://github.com/adabox-aio/cardano-shield/blob/main/.github/safe%20button.png?raw=true" alt="Mark as safe"/></a>
+</p>
+<p align="center">
+GeroWallet users can also report a transaction directly from within their wallets History tab
 </p>
 
 # Blacklist & Whitelist
