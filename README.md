@@ -70,5 +70,5 @@ Please send an email to team@cardanoshield.com or DM us on twitter/discord with 
       |
     <img src=".github/twittersmall.png" alt="Twitter">&nbsp;<a href="https://twitter.com/CardanoShield">Twitter (@CardanoShield)</a>
       |
-  <a href="https://www.cardanoshield.com"> Website (cardanoshield.com)</a>
+    <img src=".github/globe.png" alt="Website">&nbsp;<a href="https://www.cardanoshield.com"> Website (cardanoshield.com)</a>
 </p>
