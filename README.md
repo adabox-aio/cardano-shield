@@ -73,7 +73,7 @@ Please send an email to team@cardanoshield.com or DM us on twitter/discord with 
     <img src=".github/globe.png" alt="Website">&nbsp;<a href="https://www.cardanoshield.com"> Website (cardanoshield.com)</a>
 </p>
 
-# Alpha v0.1 Known Issues / Bugs
-- Tooltips are sometimes janky and not responsive
-- Transactions with decentralized exchanges show 0.0 ADA/Tokens under the "You're receiving" section
-  - While this is intended since the transaction is for creating a Buy Order on the exchange and no tokens are expected to be received, a better UX will be designed for this use-case to reflect it better.
+# Alpha v1.0.6 Known Issues / Bugs
+- GeroWallet UI: Tooltips are sometimes janky and not responsive 
+- GeroWallet UI: Transactions with decentralized exchanges show 0.0 ADA/Tokens under the "You're receiving" section.
+  - While this is intended since the transaction is for creating a Buy/Lend/Stake/etc Order on the exchange and no tokens are expected to be received.
