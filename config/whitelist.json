@@ -1,6 +1,6 @@
 {
   "address":{
-    "Minswamp":"addr1wxn9efv2f6w82hagxqtn62ju4m293tqvw0uhmdl64ch8uwc0h43gt",
+    "Minswap":"addr1wxn9efv2f6w82hagxqtn62ju4m293tqvw0uhmdl64ch8uwc0h43gt",
     "VyFinance-FREN": "addr1w9022whux9syv92atayx45jf8p53da5jqyr8gpcwqktg68gghpghg",
     "VyFinance-MIN": "addr1wyv43n3dwy0emfysk4u7c4j6n5n3yl2xfeys3jpzq255ccsl7yskf",
     "VyFinance-BTC": "addr1w9vn37jmhxrlmkc7nsy0clknz4wlhdchmy87vzk23vmw38gszw5nc",
@@ -146,8 +146,8 @@
     "VyFinance-GOKEY": "addr1w9phdl2r4glmwdya0wxjces24jdxe2kgc4zkrl28sjx73ssgvzkqm",
     "VyFinance-vADA": "addr1w9nlyq5antzvhg72mxvc7c97sn4pxv7g9zc9atn5d6x227g7j4m0w",
     "VyFinance-LEAFTOKEN": "addr1w9dlw3a6cq4dxalj2deacphv2u2h9j9pnh40ute9mu5pr9sa94gjm",
-    "Sundaeswap":"addr1wxaptpmxcxawvr3pzlhgnpmzz3ql43n2tc8mn3av5kx0yzs09tqh8",
-    "Wingriders":"addr1wxr2a8htmzuhj39y2gq7ftkpxv98y2g67tg8zezthgq4jkg0a4ul4"
+    "Sundaeswap": "addr1wxaptpmxcxawvr3pzlhgnpmzz3ql43n2tc8mn3av5kx0yzs09tqh8",
+    "Wingriders": "addr1wxr2a8htmzuhj39y2gq7ftkpxv98y2g67tg8zezthgq4jkg0a4ul4"
   },
   "domains":[
     "adalite.io",
