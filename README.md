@@ -64,6 +64,11 @@ Cardano Shield Catalyst Milestones
 While we are preparing our API backend, scheduled for February/March 2024, you can submit a request to receive a Cardano Shield API key.
 Please send an email to team@cardanoshield.com or DM us on twitter/discord with your API key request, please include your project name and the API purpose (wallet, community, research, etc)
 
+# Alpha v1.0.6 Known Issues / Bugs
+- GeroWallet UI: Tooltips are sometimes janky and not responsive 
+- GeroWallet UI: Transactions with decentralized exchanges show 0.0 ADA/Tokens under the "You're receiving" section.
+  - While this is intended since the transaction is for creating a Buy/Lend/Stake/etc Order on the exchange and no tokens are expected to be received.
+
 </p>
 <p align="center">
     <img src=".github/discordsmall.png" alt="discord">&nbsp;<a href="https://discord.gg/J2ujENSdtm">Discord (adaforge.io)</a>
@@ -73,7 +78,3 @@ Please send an email to team@cardanoshield.com or DM us on twitter/discord with 
     <img src=".github/globe.png" alt="Website">&nbsp;<a href="https://www.cardanoshield.com"> Website (cardanoshield.com)</a>
 </p>
 
-# Alpha v1.0.6 Known Issues / Bugs
-- GeroWallet UI: Tooltips are sometimes janky and not responsive 
-- GeroWallet UI: Transactions with decentralized exchanges show 0.0 ADA/Tokens under the "You're receiving" section.
-  - While this is intended since the transaction is for creating a Buy/Lend/Stake/etc Order on the exchange and no tokens are expected to be received.
