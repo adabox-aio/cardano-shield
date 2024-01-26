@@ -62,7 +62,13 @@
     "$DING Reward Ticket":"e8b791dbc997d2073babf7d52bfb117d1b6ad83277b7459f968a91e4",
     "$DRIP Instant Rewardz Ticket":"f2367fab40d79cc2412e63f0174fe8d722a3de4ea199e8e4c94db7e5",
     "DGAF Reward Token":"d5788db551ac33b4e5c0f8667f9a951bd4772ffdbd4cd8043aec2d7a",
-    "World Mobile Token Rewards":"a6b2a5cda74f4bc6219cf5f3fe66389853f40a489e503bc27fdaea71"
+    "World Mobile Token Rewards":"a6b2a5cda74f4bc6219cf5f3fe66389853f40a489e503bc27fdaea71",
+    "EUSKL ADA Rewards Ticket":"00b1c75d5c94f1b5a9cd8eccba673547911f26a12743800b7b2437ae",
+    "STABLE V2 Migration Token":"33a3d636337d2c19a19804a68f7bc29530f429ca86d39ce95755167b",
+    "GENS Bonus Token":"46a8b6aa191ca29b450ff6094ebd2f8e7739f5cb7f6a86e9a6b988a0"
+    
+
+
   },
   "domains":[
     "ada-omen.org",
@@ -137,7 +143,10 @@
     "wingriders.online",
     "wmtevent.com",
     "dgafcoin.com",
-    "wmt-rewards.com"
+    "wmt-rewards.com",
+    "euskalpool.com",
+    "stablecoinada.org",
+    "geniusyield.org"
   ],
   "stake":[
     "stake1u83ane6luhljcl59e54jlm7u44agpnxuc5uanl9nfvj794quyh3dj",
