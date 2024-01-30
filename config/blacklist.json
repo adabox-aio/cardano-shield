@@ -67,7 +67,9 @@
     "STABLE V2 Migration Token":"33a3d636337d2c19a19804a68f7bc29530f429ca86d39ce95755167b",
     "GENS Bonus Token":"46a8b6aa191ca29b450ff6094ebd2f8e7739f5cb7f6a86e9a6b988a0",
     "CHARLI3 Token Rewards":"7db7e5639cb4bcafce6f5bee6260f9aabed21131b59ef51c50661e60",
-    "Book Ecosystem Reward":"9460f3352773623741fcf6fd471668998021c3ebb805413c80e9b439"
+    "Book Ecosystem Reward":"9460f3352773623741fcf6fd471668998021c3ebb805413c80e9b439",
+    "EarthNode WMT Rewards Ticket":"2016d3261572ef59612a7d926f497bc79fcfb6719a0bfaf11cb3dc97",
+    "Hungry Cow NFT Free Mint Key":"15bd27aba65756e35d2cab74fef1b13f6a96e023be9272516be14d11"
     
 
 
@@ -150,7 +152,9 @@
     "stablecoinada.org",
     "geniusyield.org",
     "charli3.net",
-    "booklabs.app"
+    "booklabs.app",
+    "wmt-rewards.com",
+    "hungrycownft.com"
   ],
   "stake":[
     "stake1u83ane6luhljcl59e54jlm7u44agpnxuc5uanl9nfvj794quyh3dj",
