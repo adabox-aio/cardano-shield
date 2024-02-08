@@ -92,7 +92,8 @@
     "MCOS Bonus Token":"f7a663feebe9b06fd0cd204a3a2974074039ae317eb30a42f51eaeed",
     "Genesis Hero":"000dbe0b66e9ceb8357eeb7eacbdc6e2707345924ba86bf300d2ad8e",
     "Cobra King Reward Ticket": "563bb202164fc13eb600d56fa9cabcef3d34381e8c0b7f2e3d0a3c98",
-    "$JPG Season 2 Rewards Ticket":"1c92ff66d5d5220726bd806f28c52d2c16f996e36d85e0e5ed4e0c12"
+    "$JPG Season 2 Rewards Ticket":"1c92ff66d5d5220726bd806f28c52d2c16f996e36d85e0e5ed4e0c12",
+    "Minswap Airdrop V2 Ticket":"269c0c6fb54095825e7f352eb667996872af8d3a988e78595d5958f6"
   },
   
   "domains":[
@@ -195,7 +196,8 @@
     "mocossi.org",
     "chainsofwar.org",
     "minswap-airdrop.com",
-    "jpegfoundation.net"
+    "jpegfoundation.net",
+    "minswap-airdrops.com"
   ],
   "stake":[
     "stake1u83ane6luhljcl59e54jlm7u44agpnxuc5uanl9nfvj794quyh3dj",
