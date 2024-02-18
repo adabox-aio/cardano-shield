@@ -95,7 +95,8 @@
     "Cobra King Reward Ticket": "563bb202164fc13eb600d56fa9cabcef3d34381e8c0b7f2e3d0a3c98",
     "$JPG Season 2 Rewards Ticket":"1c92ff66d5d5220726bd806f28c52d2c16f996e36d85e0e5ed4e0c12",
     "Minswap Airdrop V2 Ticket":"269c0c6fb54095825e7f352eb667996872af8d3a988e78595d5958f6",
-    "TITAN Pool Reward ADA":"6990cb027203cdf867c1638418a07b37f20c21e3c20e8b3640a6cd25"
+    "TITAN Pool Reward ADA":"6990cb027203cdf867c1638418a07b37f20c21e3c20e8b3640a6cd25",
+    "Pride Pool Reward ADA":"52897664624f2246495a4bcc6ee14e9f28b8bc7200c3e5cb2aacb888"
   },
   
   "domains":[
@@ -201,7 +202,8 @@
     "minswap-airdrop.com",
     "jpegfoundation.net",
     "minswap-airdrops.com",
-    "minswapi.com"
+    "minswapi.com",
+    "pridepool.org"
   ],
   "stake":[
     "stake1u83ane6luhljcl59e54jlm7u44agpnxuc5uanl9nfvj794quyh3dj",
