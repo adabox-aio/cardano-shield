@@ -57,7 +57,7 @@ if you wish to modify or add a new entry to these files using a PR, please follo
 <p align="center">
 Cardano Shield Catalyst Milestones
 <a href="https://milestones.projectcatalyst.io/projects/1000040">
-  <img src="https://github.com/adabox-aio/cardano-shield/blob/main/.github/milestone.png?raw=true" alt="Milestones"/>
+  <img src="https://github.com/adabox-aio/cardano-shield/blob/main/.github/milestone2.png?raw=true" alt="Milestones"/>
 </a>
 
 # API Generation (WIP)
