@@ -150,7 +150,16 @@
     "Sundaeswap": "addr1wxaptpmxcxawvr3pzlhgnpmzz3ql43n2tc8mn3av5kx0yzs09tqh8",
     "Wingriders": "addr1wxr2a8htmzuhj39y2gq7ftkpxv98y2g67tg8zezthgq4jkg0a4ul4",
     "Infinitypools-hot-wallet": "addr1q9mwkr33n6wj8y9x0t6fx5yxz24gvsqmn9f7gndtg48s3xpcs7lywsajf3sdp9mpxvkls742dvt499v9560hf9533qssz7ufe8",
-    "StrikeFinanceContract": "addr1wytzw530pgjxm4wxsxj5ufp23cxacrvzmytpjnlcgq6t7vsgz25ef"
+    "StrikeFinanceContract": "addr1wytzw530pgjxm4wxsxj5ufp23cxacrvzmytpjnlcgq6t7vsgz25ef",
+    "MuesliSwap-V1": "addr1w84psng20ejqcj6a4gljemu9re65waefct7cnahlhmtcwnq63kxyq",
+    "MuesliSwap-V1.1": "addr1wy2mjh76em44qurn5x73nzqrxua7ataasftql0u2h6g88lc3gtgpz",
+    "MuesliSwap-V2": "addr1zyq0kyrml023kwjk8zr86d5gaxrt5w8lxnah8r6m6s4jp4g3r6dxnzml343sx8jweqn4vn3fz2kj8kgu9czghx0jrsyqqktyhv",
+    "SundaeSwap-V1": "addr1w9qzpelu9hn45pefc0xr4ac4kdxeswq7pndul2vuj59u8tqaxdznu",
+    "SundaeSwap-V3": "addr1x8srqftqemf0mjlukfszd97ljuxdp44r372txfcr75wrz26rnxqnmtv3hdu2t6chcfhl2zzjh36a87nmd6dwsu3jenqsslnz7e",
+    "TeddySwap": "addr1w99tz7hungv6furtdl3zn72sree86wtghlcr4jc637r2eagr7ycqd",
+    "CSwap": "addr1z8d9k3aw6w24eyfjacy809h68dv2rwnpw0arrfau98jk6nhv88awp8sgxk65d6kry0mar3rd0dlkfljz7dv64eu39vfs38yd9p",
+    "GeroWallet-Aggregator": "addr1q9cp2rvkjw0f75nsqyq5nhgp37e4w4hujqh8jmlju2zfscsem9ng9drvumcdpcrx7x9xygw68v8sxlhrftrnpqd045tqwrfqf7",
+    "DexHunter-Fee": "addr1q8l7hny7x96fadvq8cukyqkcfca5xmkrvfrrkt7hp76v3qvssm7fz9ajmtd58ksljgkyvqu6gl23hlcfgv7um5v0rn8qtnzlfk"
   },
   "domains":[
     "adabox.io",
@@ -194,13 +203,21 @@
     "stockx.com",
     "strikefinance.org",
     "cardanoshield.com",
-    "claim.midnight.gd"
+    "claim.midnight.gd",
+    "teddyswap.org",
+    "splash.trade",
+    "shadowbook.io",
+    "saturnswap.io",
+    "snek.fun",
+    "liqwid.finance",
+    "fluidtokens.com"
   ],
   "stake":{
     "Minswap":"stake1uymwkz2zln400574dur7drxfppvjaqmca6w98k0qmlr74ng2f5qcl",
     "Minswap2":"stake1u9f9v0z5zzlldgx58n8tklphu8mf7h4jvp2j2gddluemnssjfnkzz",
     "jpeg.store":"stake1uxqh9rn76n8nynsnyvf4ulndjv0srcc8jtvumut3989cqmgjt49h6",
     "jpeg.store2":"stake1uy0832h8eyxvxmtzfaanhdkcddfxjmwgfeys7dp7h2ysqhckdgvzv",
-    "Muesliswap":"stake1uyg3axnf3dlc6ccrre8vsf6kfc539tfrmywzupytn8epczq7flspl"
+    "Muesliswap":"stake1uyg3axnf3dlc6ccrre8vsf6kfc539tfrmywzupytn8epczq7flspl",
+    "Splash": "stake17xe0d2lkpnx7jt4wrgh5lhm97t40vgydsukx7rje0nqskpc5zugc3"
   }
 }
